@@ -42,6 +42,8 @@ End Program with 'q'. Allow the program to be terminated by pressing the 'q' key
 
 ## i) Write the frame as JPG file
 ``` Python
+### NAME: JAYADEV PALLINTI
+### REG NO: 212223240058
 import cv2
 videoCaptureObject = cv2.VideoCapture(0)
 ret, frame = videoCaptureObject.read()
